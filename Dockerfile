@@ -5,3 +5,5 @@ COPY target/mahesh123.war /usr/local/tomcat/webapps/mahesh123.war
 <tomcat>
 <html>
 <webapps>
+<tomcat>
+<server>
